@@ -18,7 +18,7 @@ body{
 ========================== */
 
 .hero{
-    background:linear-gradient(135deg,#2563eb,#06b6d4);
+    background:linear-gradient(135deg,#e88080,#be0e1a);
     color:#fff;
     text-align:center;
     padding:25px;
@@ -29,7 +29,7 @@ body{
 .header{
 
     background:linear-gradient(135deg,var(--primary),var(--secondary));
-    color:white;
+    color:rgb(252, 206, 209);
 
     text-align:center;
 
@@ -54,7 +54,7 @@ body{
     background:#fff;
     padding:30px;
     border-radius:15px;
-    box-shadow:0 8px 20px rgba(0,0,0,.08);
+    box-shadow:0 8px 20px rgba(240, 43, 43, 0.08);
 }
 
 /* ==========================
@@ -114,7 +114,7 @@ select:focus{
 ========================== */
 
 button{
-    background:#2563eb;
+    background:#cd233c;
     color:white;
     border:none;
     padding:12px 30px;
@@ -126,7 +126,7 @@ button{
 }
 
 button:hover{
-    background:#1d4ed8;
+    background:#d81d1d;
     transform:translateY(-2px);
 }
 
@@ -174,7 +174,7 @@ button:hover{
     padding:10px;
     border-radius:8px;
     margin-bottom:12px;
-    color:#444;
+    color:#bc3030;
     word-wrap:break-word;
 }
 
